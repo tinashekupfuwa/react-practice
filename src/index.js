@@ -6,3 +6,7 @@ function HelloWorld() {
     <div>Hello World</div>
   );
 }
+
+ReactDOM.render(
+  
+);
