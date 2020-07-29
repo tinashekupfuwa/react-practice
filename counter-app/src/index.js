@@ -5,11 +5,13 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.css';
 import Counter from './components/counterComponent';
+import './components/fig.component';
+import './components/fig.component'
 
 ReactDOM.render( <
   React.StrictMode >
   <
-  Counter / >
+  Fig / >
   <
   /React.StrictMode>,
   document.getElementById('root')
