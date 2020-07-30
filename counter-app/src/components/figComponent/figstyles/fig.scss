@@ -1,0 +1,23 @@
+$primary-color: hsl(240, 1%, 86%);
+$secondary-color: hsl(280, 3%, 77%);
+$tertiary-color: hsl(210, 4%, 29%);
+$quatenary-color: hsl(206, 16%, 35%);
+$quinary-color: hsl(192, 73%, 36%);
+
+h1,
+p {
+  font-family: sans-serif;
+}
+
+.user--card {
+  display: flex;
+  flex-direction: column;
+  width: 344px;
+  height: 440px;
+  background-color: $quinary-color;
+}
+
+.user-card fig {
+  width: 80%;
+  height: 40%;
+}

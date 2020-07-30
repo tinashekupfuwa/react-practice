@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAMA,AAAA,EAAE;AACF,CAAC,CAAC;EACA,WAAW,EAAE,UAAU;CACxB;;AAED,AAAA,WAAW,CAAC;EACV,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,gBAAgB,EAZF,OAAkB;CAajC;;AAED,AAAA,UAAU,CAAC,GAAG,CAAC;EACb,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,GAAG;CACZ",
+    "sources": [
+        "fig.scss"
+    ],
+    "names": [],
+    "file": "fig.css"
+}

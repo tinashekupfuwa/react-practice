@@ -1,0 +1,23 @@
+h1,
+p {
+  font-family: sans-serif;
+}
+
+.user--card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 344px;
+  height: 440px;
+  background-color: #19849f;
+}
+
+.user-card fig {
+  width: 80%;
+  height: 40%;
+}
+/*# sourceMappingURL=fig.css.map */

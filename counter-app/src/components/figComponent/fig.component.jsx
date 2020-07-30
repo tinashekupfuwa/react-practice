@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./figstyles/fig.css";
 
 export default class Fig extends Component {
   constructor() {
@@ -9,7 +10,7 @@ export default class Fig extends Component {
   }
   render() {
     return (
-      <div>
+      <div className="user--card">
         <figure>
           <img src="" alt="a smiling person" />
         </figure>
