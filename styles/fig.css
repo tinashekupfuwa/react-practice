@@ -16,8 +16,13 @@ p {
   background-color: #19849f;
 }
 
-.user-card fig {
-  width: 80%;
-  height: 40%;
+.user-card figure {
+  width: 200px;
+  height: 200px;
+}
+
+.user-card figure img {
+  width: 200px;
+  height: 200px;
 }
 /*# sourceMappingURL=fig.css.map */

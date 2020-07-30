@@ -2,7 +2,7 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "../counter-app/src/scss/main.scss"
+        "../counter-app/src/main style/main.scss"
     ],
     "names": [],
     "file": "main.css"
